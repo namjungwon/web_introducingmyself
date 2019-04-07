@@ -1,0 +1,41 @@
+.profile{
+    text-align: center;
+    background-color: rgb(255, 255, 255)
+}
+#profilepic{
+    height: 100px;
+    border-radius: 50%;
+}
+
+#volume {
+    text-align: center;
+}
+#hello{
+    color:rgb(255, 75, 105);
+    font-family: 'Shadows Into Light', cursive;
+}
+#name{
+    color: rgb(250, 119, 141);
+    font-family: 'Indie Flower', cursive;
+}
+
+.discription{
+    background-color: white;
+}
+#aboutme{
+    color: rgb(250, 119, 141);
+    font-family: 'Indie Flower', cursive;
+}
+#aboutme_p{
+    text-align: left;
+}
+
+.SNS{
+    background-color: white;
+    text-align: center;
+}
+
+.copyright{
+    text-align: center;
+    font-family: 'Titillium Web', sans-serif;
+}
